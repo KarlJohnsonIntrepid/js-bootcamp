@@ -1,0 +1,48 @@
+
+DATA TYPES
+destructuring  -practice
+object keys - practice
+data/time - practice
+map/set - practicegit
+
+ADVANCED FUNCTIONS
+https://javascript.info/advanced-functions
+functions.....,call,bind,apply,,closures - explain
+scope -hoisting, var, let, const, arrow functions
+https://javascript.info/closure
+
+PROMISES / SYNC AWAIT
+promises / async await... - https://javascript.info/async
+
+
+https://javascript.info/generators-iterators
+
+
+//Addtional reviewing
+closure /currying / protoypes/ symbols
+
+----------------------------------------------------------------------
+https://javascript.info/first-steps - Is Complete?
+--------------------------------------------------------------------------
+
+Also do some pratice tests on hacker rank....
+
+-------------------------------------------------------------------------------------------
+
+BROWSER SERVER INSTALL
+
+URL handling
+decodeURI()
+window.location
+window.hash.
+hstory push states...
+
+localstorage across pages  / session storage
+
+querySelector + event listeners textchange, checkchange, drodown change
+add new nodes / alter existing
+
+unit testing frameworks...
+webpack....
+sass....
+
