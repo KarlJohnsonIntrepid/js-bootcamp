@@ -1,19 +1,22 @@
 ADVANCED FUNCTIONS
 https://javascript.info/advanced-functions
-functions.....,call,bind,apply,,closures - explain
+3,5,6,7,9,10,11
+
+functions.....,call,bind,apply,,closures - 
 scope -hoisting, var, let, const, arrow functions
-https://javascript.info/closure
+
+closure - tasks -https://javascript.info/closure#tasks, - explain
 
 https://javascript.info/generators-iterators
 
+build a crawler exercise in node.js
+add unit testing to the project...
 
 //Addtional reviewing
 closure /currying / protoypes/ symbols, destructuring assignment
 
 --------------------------------------------------------------------------
-
 Also do some pratice tests on hacker rank....
-
 -------------------------------------------------------------------------------------------
 
 BROWSER SERVER INSTALL
@@ -29,7 +32,6 @@ localstorage across pages  / session storage
 querySelector + event listeners textchange, checkchange, drodown change
 add new nodes / alter existing
 
-unit testing frameworks...
 webpack....
 sass....
 
