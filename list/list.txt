@@ -1,10 +1,3 @@
-
-DATA TYPES
-destructuring  -practice
-object keys - practice
-data/time - practice
-map/set - practicegit
-
 ADVANCED FUNCTIONS
 https://javascript.info/advanced-functions
 functions.....,call,bind,apply,,closures - explain
@@ -12,17 +5,15 @@ scope -hoisting, var, let, const, arrow functions
 https://javascript.info/closure
 
 PROMISES / SYNC AWAIT
-promises / async await... - https://javascript.info/async
 
+promise api and downwards....
 
 https://javascript.info/generators-iterators
 
 
 //Addtional reviewing
-closure /currying / protoypes/ symbols
+closure /currying / protoypes/ symbols, destructuring assignment
 
-----------------------------------------------------------------------
-https://javascript.info/first-steps - Is Complete?
 --------------------------------------------------------------------------
 
 Also do some pratice tests on hacker rank....
