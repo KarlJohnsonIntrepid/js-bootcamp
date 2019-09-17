@@ -4,10 +4,6 @@ functions.....,call,bind,apply,,closures - explain
 scope -hoisting, var, let, const, arrow functions
 https://javascript.info/closure
 
-PROMISES / SYNC AWAIT
-
-promise api and downwards....
-
 https://javascript.info/generators-iterators
 
 
